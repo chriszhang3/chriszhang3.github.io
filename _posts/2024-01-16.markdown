@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Galois Fields"
-date:   2024-01-14 -0500
+date:   2024-01-16 -0500
 categories: math crypto
 usemathjax: true
 ---
