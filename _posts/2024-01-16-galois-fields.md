@@ -2,8 +2,7 @@
 layout: post
 title:  "Galois Fields"
 date:   2024-01-16 -0500
-categories: math crypto
-usemathjax: true
+categories: math cryptography
 ---
 
 Many cryptography algorithms such as [AES-128](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard) and [GCM](https://en.wikipedia.org/wiki/Galois/Counter_Mode) use the Galois field $GF(2^k)$. It's interesting to me that abstract algebra can have applications such as this, but I'm curious why it's useful. I couldn't find much information about this [online]((https://www.reddit.com/r/cryptography/comments/f4rn3o/why_use_galois_fields/)), but it turns out to a be an extremely natural choice.
