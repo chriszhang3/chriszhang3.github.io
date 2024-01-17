@@ -4,8 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Hi! I'm Christoher Zhang, and I'm a mathematician turned software engineer.
+This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-I want to record some things I have learned and share them with people who are interested. I also plan to improve the design of this webpage soon...
+You can find the source code for Minima at GitHub:
+[jekyll][jekyll-organization] /
+[minima](https://github.com/jekyll/minima)
 
-If you're interested in my former mathematical work, see my old [academic website](https://websites.umich.edu/~zhangchr/).
+You can find the source code for Jekyll at GitHub:
+[jekyll][jekyll-organization] /
+[jekyll](https://github.com/jekyll/jekyll)
+
+
+[jekyll-organization]: https://github.com/jekyll
